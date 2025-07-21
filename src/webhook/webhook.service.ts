@@ -44,7 +44,7 @@ export class WebhookService {
             fields: {
               TITLE: `Lead GPT - ${name}`,
               CONTACT_ID: contactId,
-              CATEGORY_ID: 9,
+              CATEGORY_ID: 63,
               STAGE_ID: 'NEW',
               SOURCE_ID: 'WEB',
             },
